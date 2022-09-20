@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viswajith
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently learning Full stack development
 - 📫 How to reach me  [viswajithrajan@gmail.com](viswajithrajan@gmail.com)
 
 <!---
